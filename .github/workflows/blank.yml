@@ -14,4 +14,4 @@ jobs:
       - name: build application
         run: |
          cd release/src-ra-5010
-         make model rt-mir4a
+         make rt-mir4a
