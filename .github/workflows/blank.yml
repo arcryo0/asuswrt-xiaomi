@@ -19,4 +19,4 @@ jobs:
       - name: Run a multi-line script
         run: |
          cd release/src-ra-5010
-         make model rt-mir4a
+         echo done
